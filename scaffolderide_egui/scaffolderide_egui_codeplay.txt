@@ -1,0 +1,8 @@
+
+// 2025-26 Beta ORI Inc. Canada. All Rights Reserved.
+//Syed Awase Khirni
+
+rayyan@macmini scaffolderide_egui % cargo new egui_code_editor
+cd egui_code_editor
+cargo build --release
+cargo run --release
